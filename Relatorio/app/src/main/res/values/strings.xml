@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Relatorio</string>
+
+    <string name="PdfViewer">PDF Viewer</string>
+    <string name="WebView">WebView</string>
+
+    <string name="Download">Download PDF</string>
+</resources>
